@@ -1,2 +1,2 @@
-# mask-classification-app
- mask-classification-app
+# mask-detection-app
+ mask-detection-app
